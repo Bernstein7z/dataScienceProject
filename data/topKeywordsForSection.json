@@ -1,0 +1,1738 @@
+{
+    "NoSection": [
+        [
+            "Theater",
+            1
+        ],
+        [
+            "Harris, Jeremy O",
+            1
+        ],
+        [
+            "Daddy (Play)",
+            1
+        ]
+    ],
+    "Sports": [
+        [
+            "Baseball",
+            4625
+        ],
+        [
+            "Basketball",
+            2482
+        ],
+        [
+            "Football",
+            2139
+        ]
+    ],
+    "Opinion": [
+        [
+            "Trump, Donald J",
+            10499
+        ],
+        [
+            "United States Politics and Government",
+            8069
+        ],
+        [
+            "Presidential Election of 2016",
+            3399
+        ]
+    ],
+    "Technology": [
+        [
+            "Computers and the Internet",
+            1925
+        ],
+        [
+            "Social Media",
+            1011
+        ],
+        [
+            "Facebook Inc",
+            943
+        ]
+    ],
+    "Arts": [
+        [
+            "Television",
+            6873
+        ],
+        [
+            "Art",
+            4738
+        ],
+        [
+            "Music",
+            3177
+        ]
+    ],
+    "U.S.": [
+        [
+            "Trump, Donald J",
+            14234
+        ],
+        [
+            "United States Politics and Government",
+            13529
+        ],
+        [
+            "Presidential Election of 2016",
+            7117
+        ]
+    ],
+    "Corrections": [
+        [
+            "Race and Ethnicity",
+            2
+        ],
+        [
+            "Baseball",
+            2
+        ],
+        [
+            "Robinson, Jackie",
+            2
+        ]
+    ],
+    "The Upshot": [
+        [
+            "Presidential Election of 2016",
+            585
+        ],
+        [
+            "Trump, Donald J",
+            578
+        ],
+        [
+            "United States Politics and Government",
+            411
+        ]
+    ],
+    "Fashion & Style": [
+        [
+            "Weddings and Engagements",
+            6438
+        ],
+        [
+            "Fashion and Apparel",
+            3294
+        ],
+        [
+            "New York Fashion Week",
+            950
+        ]
+    ],
+    "World": [
+        [
+            "Politics and Government",
+            5104
+        ],
+        [
+            "United States International Relations",
+            3615
+        ],
+        [
+            "Trump, Donald J",
+            2945
+        ]
+    ],
+    "New York": [
+        [
+            "New York City",
+            6166
+        ],
+        [
+            "New York State",
+            1785
+        ],
+        [
+            "de Blasio, Bill",
+            1399
+        ]
+    ],
+    "Today\u2019s Paper": [
+        [
+            "Besonen, Julie",
+            2
+        ],
+        [
+            "Restaurants",
+            2
+        ],
+        [
+            "NoLIta (Manhattan, NY)",
+            2
+        ]
+    ],
+    "Food": [
+        [
+            "Cooking and Cookbooks",
+            2830
+        ],
+        [
+            "Restaurants",
+            1983
+        ],
+        [
+            "Recipes",
+            895
+        ]
+    ],
+    "Business Day": [
+        [
+            "Trump, Donald J",
+            2314
+        ],
+        [
+            "Mergers, Acquisitions and Divestitures",
+            2086
+        ],
+        [
+            "Banking and Financial Institutions",
+            1793
+        ]
+    ],
+    "Magazine": [
+        [
+            "Trump, Donald J",
+            320
+        ],
+        [
+            "Comedy and Humor",
+            270
+        ],
+        [
+            "Poetry and Poets",
+            234
+        ]
+    ],
+    "Crosswords & Games": [
+        [
+            "Crossword Puzzles",
+            2368
+        ],
+        [
+            "Puzzles",
+            108
+        ],
+        [
+            "Acrostic Puzzles",
+            99
+        ]
+    ],
+    "Job Market": [
+        [
+            "Careers and Professions",
+            155
+        ],
+        [
+            "Workplace Environment",
+            84
+        ],
+        [
+            "Labor and Jobs",
+            83
+        ]
+    ],
+    "Real Estate": [
+        [
+            "Real Estate and Housing (Residential)",
+            5502
+        ],
+        [
+            "Renting and Leasing (Real Estate)",
+            711
+        ],
+        [
+            "New York City",
+            632
+        ]
+    ],
+    "Blogs": [
+        [
+            "Banking and Financial Institutions",
+            164
+        ],
+        [
+            "Mergers, Acquisitions and Divestitures",
+            156
+        ],
+        [
+            "Photography",
+            124
+        ]
+    ],
+    "Your Money": [
+        [
+            "Personal Finances",
+            651
+        ],
+        [
+            "High Net Worth Individuals",
+            212
+        ],
+        [
+            "Retirement",
+            159
+        ]
+    ],
+    "Style": [
+        [
+            "Fashion and Apparel",
+            736
+        ],
+        [
+            "Dating and Relationships",
+            334
+        ],
+        [
+            "Love (Emotion)",
+            284
+        ]
+    ],
+    "T Magazine": [
+        [
+            "Fashion and Apparel",
+            1616
+        ],
+        [
+            "Art",
+            924
+        ],
+        [
+            "New York Fashion Week",
+            302
+        ]
+    ],
+    "Theater": [
+        [
+            "Theater",
+            4927
+        ],
+        [
+            "ACTORS AND ACTRESSES",
+            267
+        ],
+        [
+            "Tony Awards (Theater Awards)",
+            208
+        ]
+    ],
+    "Books": [
+        [
+            "Books and Literature",
+            9839
+        ],
+        [
+            "Writing and Writers",
+            1277
+        ],
+        [
+            "Deaths (Obituaries)",
+            289
+        ]
+    ],
+    "Health": [
+        [
+            "Drugs (Pharmaceuticals)",
+            392
+        ],
+        [
+            "Food and Drug Administration",
+            287
+        ],
+        [
+            "Centers for Disease Control and Prevention",
+            277
+        ]
+    ],
+    "Times Insider": [
+        [
+            "New York Times",
+            681
+        ],
+        [
+            "News and News Media",
+            261
+        ],
+        [
+            "Trump, Donald J",
+            173
+        ]
+    ],
+    "Movies": [
+        [
+            "Movies",
+            7128
+        ],
+        [
+            "Documentary Films and Programs",
+            1212
+        ],
+        [
+            "Academy Awards (Oscars)",
+            565
+        ]
+    ],
+    "NYT Now": [
+        [
+            "Photography",
+            39
+        ],
+        [
+            "Instagram Inc",
+            30
+        ],
+        [
+            "Presidential Election of 2016",
+            17
+        ]
+    ],
+    "Multimedia/Photos": [
+        [
+            "Photography",
+            718
+        ],
+        [
+            "Art",
+            54
+        ],
+        [
+            "Women and Girls",
+            42
+        ]
+    ],
+    "Travel": [
+        [
+            "Travel and Vacations",
+            3830
+        ],
+        [
+            "Hotels and Travel Lodgings",
+            665
+        ],
+        [
+            "Restaurants",
+            335
+        ]
+    ],
+    "Education": [
+        [
+            "Colleges and Universities",
+            291
+        ],
+        [
+            "Education (K-12)",
+            73
+        ],
+        [
+            "Careers and Professions",
+            29
+        ]
+    ],
+    "Science": [
+        [
+            "Space and Astronomy",
+            691
+        ],
+        [
+            "your-feed-science",
+            504
+        ],
+        [
+            "Research",
+            410
+        ]
+    ],
+    "Universal": [
+        [
+            "Love (Emotion)",
+            18
+        ],
+        [
+            "Murders, Attempted Murders and Homicides",
+            15
+        ],
+        [
+            "Harlem (Manhattan, NY)",
+            12
+        ]
+    ],
+    "Automobiles": [
+        [
+            "Automobiles",
+            254
+        ],
+        [
+            "Electric and Hybrid Vehicles",
+            37
+        ],
+        [
+            "Ford Motor Co",
+            36
+        ]
+    ],
+    "Public Editor": [
+        [
+            "New York Times",
+            123
+        ],
+        [
+            "News and News Media",
+            48
+        ],
+        [
+            "Trump, Donald J",
+            41
+        ]
+    ],
+    "Sunday Review": [
+        [
+            "United States Politics and Government",
+            166
+        ],
+        [
+            "Trump, Donald J",
+            124
+        ],
+        [
+            "Women and Girls",
+            68
+        ]
+    ],
+    "Obituaries": [
+        [
+            "Deaths (Obituaries)",
+            2139
+        ],
+        [
+            "Books and Literature",
+            219
+        ],
+        [
+            "Writing and Writers",
+            211
+        ]
+    ],
+    "The Learning Network": [
+        [
+            "Reading and Writing Skills (Education)",
+            454
+        ],
+        [
+            "New York Times",
+            385
+        ],
+        [
+            "Education (K-12)",
+            273
+        ]
+    ],
+    "Archives": [
+        [
+            "Deaths (Obituaries)",
+            2
+        ],
+        [
+            "Music",
+            2
+        ],
+        [
+            "Pop and Rock Music",
+            2
+        ]
+    ],
+    "Well": [
+        [
+            "Parenting",
+            490
+        ],
+        [
+            "Children and Childhood",
+            459
+        ],
+        [
+            "Exercise",
+            428
+        ]
+    ],
+    "Podcasts": [
+        [
+            "Trump, Donald J",
+            418
+        ],
+        [
+            "Podcasts",
+            252
+        ],
+        [
+            "United States Politics and Government",
+            240
+        ]
+    ],
+    "Briefing": [
+        [
+            "Trump, Donald J",
+            25
+        ],
+        [
+            "United States Politics and Government",
+            16
+        ],
+        [
+            "Great Britain Withdrawal from EU (Brexit)",
+            13
+        ]
+    ],
+    "Admin": [
+        [
+            "Cooking and Cookbooks",
+            15
+        ],
+        [
+            "Artificial Intelligence",
+            8
+        ],
+        [
+            "Recipes",
+            8
+        ]
+    ],
+    "Watching": [
+        [
+            "Television",
+            183
+        ],
+        [
+            "Movies",
+            146
+        ],
+        [
+            "Netflix Inc",
+            43
+        ]
+    ],
+    "Giving": [
+        [
+            "Philanthropy",
+            16
+        ],
+        [
+            "ADVERTISING AND MARKETING",
+            4
+        ],
+        [
+            "Nonprofit Organizations",
+            4
+        ]
+    ],
+    "Climate": [
+        [
+            "Global Warming",
+            929
+        ],
+        [
+            "Greenhouse Gas Emissions",
+            493
+        ],
+        [
+            "Environment",
+            472
+        ]
+    ],
+    "International Home": [
+        [
+            "Deaths (Obituaries)",
+            4
+        ],
+        [
+            "Terrorism",
+            3
+        ],
+        [
+            "Carnival (Pre-Lenten)",
+            2
+        ]
+    ],
+    "Homepage": [
+        [
+            "New York Times",
+            2
+        ],
+        [
+            "Trump-Ukraine Whistle-blower Complaint and Impeachment Inquiry",
+            2
+        ],
+        [
+            "Action Park",
+            2
+        ]
+    ],
+    "Smarter Living": [
+        [
+            "your-feed-wirecutter",
+            80
+        ],
+        [
+            "Computers and the Internet",
+            67
+        ],
+        [
+            "Cooking and Cookbooks",
+            48
+        ]
+    ],
+    "T Brand": [
+        [
+            "ADVERTISING AND MARKETING",
+            190
+        ],
+        [
+            "Art",
+            4
+        ],
+        [
+            "Audemars Piguet Group",
+            4
+        ]
+    ],
+    "Reader Center": [
+        [
+            "New York Times",
+            225
+        ],
+        [
+            "News and News Media",
+            136
+        ],
+        [
+            "United States Politics and Government",
+            65
+        ]
+    ],
+    "Slideshows": [
+        [
+            "Real Estate and Housing (Residential)",
+            1
+        ],
+        [
+            "Martha's Vineyard (Mass)",
+            1
+        ],
+        [
+            "California",
+            1
+        ]
+    ],
+    "Guides": [
+        [
+            "APNEA (SLEEP DISORDER)",
+            2
+        ],
+        [
+            "Careers and Professions",
+            2
+        ],
+        [
+            "Gifts",
+            1
+        ]
+    ],
+    "Lens": [
+        [
+            "Photography",
+            220
+        ],
+        [
+            "Blacks",
+            34
+        ],
+        [
+            "Black People",
+            34
+        ]
+    ],
+    "Dance": [
+        [
+            "Dancing",
+            214
+        ],
+        [
+            "New York City Ballet",
+            48
+        ],
+        [
+            "American Ballet Theater",
+            24
+        ]
+    ],
+    "Politics": [
+        [
+            "United States Politics and Government",
+            1512
+        ],
+        [
+            "Trump, Donald J",
+            1065
+        ],
+        [
+            "Midterm Elections (2018)",
+            724
+        ]
+    ],
+    "Soccer": [
+        [
+            "Soccer",
+            54
+        ],
+        [
+            "UEFA Champions League (Soccer)",
+            11
+        ],
+        [
+            "Union of European Football Assns (UEFA)",
+            10
+        ]
+    ],
+    "Baseball": [
+        [
+            "Baseball",
+            128
+        ],
+        [
+            "Boston Red Sox",
+            45
+        ],
+        [
+            "New York Yankees",
+            42
+        ]
+    ],
+    "Europe": [
+        [
+            "Politics and Government",
+            253
+        ],
+        [
+            "Great Britain",
+            125
+        ],
+        [
+            "Russia",
+            116
+        ]
+    ],
+    "Economy": [
+        [
+            "Trump, Donald J",
+            50
+        ],
+        [
+            "United States Politics and Government",
+            43
+        ],
+        [
+            "United States Economy",
+            39
+        ]
+    ],
+    "Book Review": [
+        [
+            "Books and Literature",
+            733
+        ],
+        [
+            "Writing and Writers",
+            50
+        ],
+        [
+            "United States Politics and Government",
+            18
+        ]
+    ],
+    "Pro Basketball": [
+        [
+            "Basketball",
+            40
+        ],
+        [
+            "Los Angeles Lakers",
+            15
+        ],
+        [
+            "James, LeBron",
+            11
+        ]
+    ],
+    "The Daily": [
+        [
+            "United States Politics and Government",
+            53
+        ],
+        [
+            "Trump, Donald J",
+            49
+        ],
+        [
+            "Republican Party",
+            31
+        ]
+    ],
+    "DealBook": [
+        [
+            "Stocks and Bonds",
+            110
+        ],
+        [
+            "Mergers, Acquisitions and Divestitures",
+            68
+        ],
+        [
+            "Trump, Donald J",
+            60
+        ]
+    ],
+    "Americas": [
+        [
+            "Mexico",
+            60
+        ],
+        [
+            "Politics and Government",
+            59
+        ],
+        [
+            "Brazil",
+            57
+        ]
+    ],
+    "Africa": [
+        [
+            "Politics and Government",
+            38
+        ],
+        [
+            "Congo, Democratic Republic of (Congo-Kinshasa)",
+            14
+        ],
+        [
+            "South Africa",
+            14
+        ]
+    ],
+    "Weddings": [
+        [
+            "Weddings and Engagements",
+            759
+        ],
+        [
+            "Marriages",
+            15
+        ],
+        [
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+            8
+        ]
+    ],
+    "Television": [
+        [
+            "Television",
+            584
+        ],
+        [
+            "Movies",
+            175
+        ],
+        [
+            "Trump, Donald J",
+            70
+        ]
+    ],
+    "Letters": [
+        [
+            "Trump, Donald J",
+            187
+        ],
+        [
+            "United States Politics and Government",
+            176
+        ],
+        [
+            "Kavanaugh, Brett M",
+            53
+        ]
+    ],
+    "Learning": [
+        [
+            "Colleges and Universities",
+            15
+        ],
+        [
+            "Education (K-12)",
+            8
+        ],
+        [
+            "Education",
+            6
+        ]
+    ],
+    "Australia": [
+        [
+            "Australia",
+            128
+        ],
+        [
+            "Politics and Government",
+            51
+        ],
+        [
+            "Immigration and Emigration",
+            19
+        ]
+    ],
+    "Editorials": [
+        [
+            "United States Politics and Government",
+            21
+        ],
+        [
+            "Trump, Donald J",
+            18
+        ],
+        [
+            "Politics and Government",
+            11
+        ]
+    ],
+    "Columnists": [
+        [
+            "United States Politics and Government",
+            46
+        ],
+        [
+            "Trump, Donald J",
+            43
+        ],
+        [
+            "Democratic Party",
+            16
+        ]
+    ],
+    "Personal Tech": [
+        [
+            "Computers and the Internet",
+            44
+        ],
+        [
+            "Smartphones",
+            42
+        ],
+        [
+            "Mobile Applications",
+            31
+        ]
+    ],
+    "Music": [
+        [
+            "Classical Music",
+            162
+        ],
+        [
+            "Pop and Rock Music",
+            162
+        ],
+        [
+            "Opera",
+            98
+        ]
+    ],
+    "Art & Design": [
+        [
+            "Art",
+            343
+        ],
+        [
+            "Museums",
+            163
+        ],
+        [
+            "New York City",
+            40
+        ]
+    ],
+    "Media": [
+        [
+            "News and News Media",
+            73
+        ],
+        [
+            "Television",
+            46
+        ],
+        [
+            "Advertising and Marketing",
+            33
+        ]
+    ],
+    "Lesson Plans": [
+        [
+            "Photography",
+            4
+        ],
+        [
+            "Youth",
+            4
+        ],
+        [
+            "Education (K-12)",
+            4
+        ]
+    ],
+    "Wine, Beer & Cocktails": [
+        [
+            "Wines",
+            21
+        ],
+        [
+            "Alcoholic Beverages",
+            11
+        ],
+        [
+            "Grapes",
+            9
+        ]
+    ],
+    "Contributors": [
+        [
+            "Politics and Government",
+            6
+        ],
+        [
+            "United States Politics and Government",
+            3
+        ],
+        [
+            "Colombia",
+            2
+        ]
+    ],
+    "Middle East": [
+        [
+            "Saudi Arabia",
+            106
+        ],
+        [
+            "United States International Relations",
+            84
+        ],
+        [
+            "Mohammed bin Salman (1985- )",
+            83
+        ]
+    ],
+    "Asia Pacific": [
+        [
+            "China",
+            177
+        ],
+        [
+            "Politics and Government",
+            130
+        ],
+        [
+            "United States International Relations",
+            123
+        ]
+    ],
+    "Self-Care": [
+        [
+            "Women and Girls",
+            9
+        ],
+        [
+            "your-feed-selfcare",
+            7
+        ],
+        [
+            "Skin",
+            5
+        ]
+    ],
+    "Am\u00e9rica": [
+        [
+            "Global Warming",
+            3
+        ],
+        [
+            "Greenhouse Gas Emissions",
+            3
+        ],
+        [
+            "Carbon Dioxide",
+            3
+        ]
+    ],
+    "Fashion & Beauty": [
+        [
+            "Fashion and Apparel",
+            27
+        ],
+        [
+            "Gucci",
+            7
+        ],
+        [
+            "Givenchy",
+            6
+        ]
+    ],
+    "Rugby": [
+        [
+            "New Zealand",
+            1
+        ],
+        [
+            "Rugby",
+            1
+        ],
+        [
+            "Gisborne Boys' High School (Gisborne, New Zealand)",
+            1
+        ]
+    ],
+    "Commercial Real Estate": [
+        [
+            "Real Estate (Commercial)",
+            15
+        ],
+        [
+            "Renting and Leasing (Real Estate)",
+            14
+        ],
+        [
+            "Real Estate and Housing (Residential)",
+            10
+        ]
+    ],
+    "Opinion | The World": [
+        [
+            "Migrant Labor (Non-Agriculture)",
+            1
+        ],
+        [
+            "Foreign Workers",
+            1
+        ],
+        [
+            "Women's Rights",
+            1
+        ]
+    ],
+    "Auto Racing": [
+        [
+            "Automobile Racing",
+            2
+        ],
+        [
+            "National Assn of Stock Car Auto Racing",
+            1
+        ],
+        [
+            "France, Brian",
+            1
+        ]
+    ],
+    "Eat": [
+        [
+            "Diet and Nutrition",
+            17
+        ],
+        [
+            "Oils and Fats",
+            11
+        ],
+        [
+            "Weight",
+            10
+        ]
+    ],
+    "Golf": [
+        [
+            "Golf",
+            50
+        ],
+        [
+            "Woods, Tiger",
+            26
+        ],
+        [
+            "Ryder Cup (Golf)",
+            20
+        ]
+    ],
+    "Opinion | Environment": [
+        [
+            "California",
+            4
+        ],
+        [
+            "Water",
+            3
+        ],
+        [
+            "Global Warming",
+            3
+        ]
+    ],
+    "Opinion | Politics": [
+        [
+            "New York Times",
+            20
+        ],
+        [
+            "Democracy (Theory and Philosophy)",
+            20
+        ],
+        [
+            "Athens (Greece)",
+            20
+        ]
+    ],
+    "Art": [
+        [
+            "Art",
+            9
+        ],
+        [
+            "Sculpture",
+            4
+        ],
+        [
+            "Parenting",
+            2
+        ]
+    ],
+    "Horse Racing": [
+        [
+            "Horse Racing",
+            2
+        ],
+        [
+            "Breeders' Cup (Horse Races)",
+            1
+        ],
+        [
+            "St Lewis, Uriah",
+            1
+        ]
+    ],
+    "Tennis": [
+        [
+            "Tennis",
+            101
+        ],
+        [
+            "United States Open (Tennis)",
+            79
+        ],
+        [
+            "Williams, Serena",
+            21
+        ]
+    ],
+    "Canada": [
+        [
+            "Canada",
+            60
+        ],
+        [
+            "Marijuana",
+            19
+        ],
+        [
+            "Politics and Government",
+            18
+        ]
+    ],
+    "College Football": [
+        [
+            "Football (College)",
+            14
+        ],
+        [
+            "University of Michigan",
+            6
+        ],
+        [
+            "Michigan State University",
+            5
+        ]
+    ],
+    "Move": [
+        [
+            "Exercise",
+            29
+        ],
+        [
+            "Running",
+            14
+        ],
+        [
+            "Marathon Running",
+            9
+        ]
+    ],
+    "Energy & Environment ": [
+        [
+            "Oil (Petroleum) and Gasoline",
+            11
+        ],
+        [
+            "Prices (Fares, Fees and Rates)",
+            9
+        ],
+        [
+            "Alternative and Renewable Energy",
+            6
+        ]
+    ],
+    "Family": [
+        [
+            "Families and Family Life",
+            58
+        ],
+        [
+            "Parenting",
+            54
+        ],
+        [
+            "Children and Childhood",
+            39
+        ]
+    ],
+    "Live": [
+        [
+            "Heart",
+            31
+        ],
+        [
+            "Drugs (Pharmaceuticals)",
+            22
+        ],
+        [
+            "Medicine and Health",
+            21
+        ]
+    ],
+    "Mind": [
+        [
+            "Children and Childhood",
+            5
+        ],
+        [
+            "Mental Health and Disorders",
+            4
+        ],
+        [
+            "Anxiety and Stress",
+            4
+        ]
+    ],
+    "Men\u2019s Style": [
+        [
+            "Fashion and Apparel",
+            2
+        ],
+        [
+            "Work-Life Balance",
+            1
+        ],
+        [
+            "Exercise",
+            1
+        ]
+    ],
+    "Retirement": [
+        [
+            "Consumer Protection",
+            1
+        ],
+        [
+            "Financial Brokers",
+            1
+        ],
+        [
+            "Stocks and Bonds",
+            1
+        ]
+    ],
+    "Pro Football": [
+        [
+            "Football",
+            38
+        ],
+        [
+            "National Football League",
+            12
+        ],
+        [
+            "New York Giants",
+            8
+        ]
+    ],
+    "Elections": [
+        [
+            "Midterm Elections (2018)",
+            90
+        ],
+        [
+            "United States Politics and Government",
+            12
+        ],
+        [
+            "Elections, House of Representatives",
+            10
+        ]
+    ],
+    "Women's Runway": [
+        [
+            "Paris Fashion Week",
+            53
+        ],
+        [
+            "New York Fashion Week",
+            50
+        ],
+        [
+            "Milan Fashion Week",
+            29
+        ]
+    ],
+    "Design & Interiors": [
+        [
+            "Interior Design and Furnishings",
+            3
+        ],
+        [
+            "Tangier (Morocco)",
+            3
+        ],
+        [
+            "Art",
+            2
+        ]
+    ],
+    "New York Today": [
+        [
+            "New York City",
+            18
+        ],
+        [
+            "Bicycles and Bicycling",
+            2
+        ],
+        [
+            "Politics and Government",
+            1
+        ]
+    ],
+    "Olympics": [
+        [
+            "International Olympic Committee",
+            4
+        ],
+        [
+            "Jorgensen, Gwen (1986- )",
+            3
+        ],
+        [
+            "Olympic Games (2020)",
+            3
+        ]
+    ],
+    "Hockey": [
+        [
+            "Hockey, Ice",
+            11
+        ],
+        [
+            "New Jersey Devils",
+            3
+        ],
+        [
+            "St Louis Blues",
+            3
+        ]
+    ],
+    "Entertainment": [
+        [
+            "Restaurants",
+            1
+        ],
+        [
+            "Exercise",
+            1
+        ],
+        [
+            "Porowski, Antoni",
+            1
+        ]
+    ],
+    "Health Guide": [
+        [
+            "Teeth and Dentistry",
+            2
+        ],
+        [
+            "Brain",
+            2
+        ],
+        [
+            "Children and Childhood",
+            2
+        ]
+    ],
+    "Education Life": [
+        [
+            "Journalism Schools",
+            2
+        ],
+        [
+            "University of Mississippi",
+            2
+        ],
+        [
+            "Race and Ethnicity",
+            2
+        ]
+    ],
+    "Wirecutter": [
+        [
+            "Orderliness and Clutter",
+            4
+        ],
+        [
+            "Sleep",
+            3
+        ],
+        [
+            "Babies and Infants",
+            3
+        ]
+    ],
+    "Opinion | Culture": [
+        [
+            "Pinter, Harold",
+            2
+        ],
+        [
+            "Theater",
+            2
+        ],
+        [
+            "Politics and Government",
+            2
+        ]
+    ],
+    "Opinion | Health": [
+        [
+            "Concussions",
+            1
+        ],
+        [
+            "Athletics and Sports",
+            1
+        ],
+        [
+            "Sports Injuries",
+            1
+        ]
+    ],
+    "College Basketball": [
+        [
+            "Basketball (College)",
+            1
+        ],
+        [
+            "Sneakers",
+            1
+        ],
+        [
+            "Frauds and Swindling",
+            1
+        ]
+    ],
+    "Space & Cosmos": [
+        [
+            "Mars InSight (Spacecraft)",
+            1
+        ],
+        [
+            "Mars (Planet)",
+            1
+        ],
+        [
+            "Space and Astronomy",
+            1
+        ]
+    ],
+    "Neediest Cases": [
+        [
+            "New York Times Neediest Cases Fund",
+            80
+        ],
+        [
+            "Community Service Society of New York",
+            21
+        ],
+        [
+            "Brooklyn Community Services",
+            11
+        ]
+    ],
+    "Video": [
+        [
+            "Politics and Government",
+            6
+        ],
+        [
+            "United States",
+            6
+        ],
+        [
+            "Presidential Election of 2020",
+            5
+        ]
+    ],
+    "Parenting": [
+        [
+            "Parenting",
+            43
+        ],
+        [
+            "Children and Childhood",
+            22
+        ],
+        [
+            "Pregnancy and Childbirth",
+            11
+        ]
+    ],
+    "The Weekly": [
+        [
+            "The Weekly (TV Program)",
+            37
+        ],
+        [
+            "Hulu.com",
+            25
+        ],
+        [
+            "FX (TV Network)",
+            24
+        ]
+    ]
+}
